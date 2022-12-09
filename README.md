@@ -1,4 +1,9 @@
 # Sudoku Solver
 
 Half working sudoku solver for algorithmic class.
-g
+
+Run the solver :
+````
+pnpm i
+pnpm ts-node index.ts
+````
